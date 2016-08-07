@@ -1,0 +1,25 @@
+{
+  "name": "headerparserapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyyylau/headerParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyyylau/headerParser/issues"
+  },
+  "homepage": "https://github.com/stanleyyylau/headerParser#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-request-language": "^1.1.4",
+    "useragent": "^2.1.9"
+  }
+}
